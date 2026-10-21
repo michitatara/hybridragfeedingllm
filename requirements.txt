@@ -1,0 +1,10 @@
+rank-bm25
+fastembed
+numpy
+pandas
+pydantic>=2
+requests
+tqdm
+ollama
+streamlit
+pytest
